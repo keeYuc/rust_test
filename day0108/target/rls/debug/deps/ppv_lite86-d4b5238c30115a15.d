@@ -1,0 +1,9 @@
+/mnt/c/file/rust_test/day0108/target/rls/debug/deps/ppv_lite86-d4b5238c30115a15.rmeta: /home/keeyu/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/ppv-lite86-0.2.10/src/lib.rs /home/keeyu/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/ppv-lite86-0.2.10/src/soft.rs /home/keeyu/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/ppv-lite86-0.2.10/src/types.rs /home/keeyu/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/ppv-lite86-0.2.10/src/x86_64/mod.rs /home/keeyu/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/ppv-lite86-0.2.10/src/x86_64/sse2.rs
+
+/mnt/c/file/rust_test/day0108/target/rls/debug/deps/ppv_lite86-d4b5238c30115a15.d: /home/keeyu/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/ppv-lite86-0.2.10/src/lib.rs /home/keeyu/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/ppv-lite86-0.2.10/src/soft.rs /home/keeyu/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/ppv-lite86-0.2.10/src/types.rs /home/keeyu/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/ppv-lite86-0.2.10/src/x86_64/mod.rs /home/keeyu/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/ppv-lite86-0.2.10/src/x86_64/sse2.rs
+
+/home/keeyu/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/ppv-lite86-0.2.10/src/lib.rs:
+/home/keeyu/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/ppv-lite86-0.2.10/src/soft.rs:
+/home/keeyu/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/ppv-lite86-0.2.10/src/types.rs:
+/home/keeyu/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/ppv-lite86-0.2.10/src/x86_64/mod.rs:
+/home/keeyu/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/ppv-lite86-0.2.10/src/x86_64/sse2.rs:
